@@ -29,7 +29,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/font-awesome/all.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -96,7 +98,8 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+            ]
           }
         }
       }
